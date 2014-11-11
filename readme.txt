@@ -22,6 +22,11 @@ Adds icons in the top right admin bar, easy access to common wp-admin menus
 2. Activate the "Topdash" plugin in your WordPress administration interface
 3. Done!
 
+== Frequently Asked Questions ==
+
+Q: Can I add my own icons/link?
+A: No, not at the moment
+
 == Feedback ==
 
 Contact me at hej@urre.me or at https://twitter.com/urre and hopefully I can do something about it.
