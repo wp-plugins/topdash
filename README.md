@@ -5,7 +5,7 @@ Like OS X admin bar menu icons, but for WordPress. Easy access to common wp-admi
 ![Topdash](https://github.com/urre/topdash/blob/master/topdash.png)
 
 ## Install
-1. Install plugin from the WordPress plugin directory (coming soon...)
+1. Install plugin from the [WordPress plugin directory](https://wordpress.org/plugins/topdash/)
 
 ## Install manually
 1. Download [zip](https://github.com/urre/topdash/archive/master.zip) and extract
@@ -18,6 +18,6 @@ Like OS X admin bar menu icons, but for WordPress. Easy access to common wp-admi
 
 ## Changelog
 
-#### 1.0.0
-
-First version released
++ 1.0.2: Changed from site_url to home_url
++ 1.0.1: Icons now display both in admin and on the front end
++ 1.0.0: First version released
